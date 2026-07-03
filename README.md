@@ -151,7 +151,7 @@ calculator-preview.png
 
 ## 🌐 Live Demo
 
-🔗 **Vercel:** https://your-calculator.vercel.app
+🔗 **Vercel:** [https://your-calculator.vercel.app](https://codsoft-seven-eta.vercel.app/)
 
 ---
 
@@ -171,9 +171,9 @@ calculator-preview.png
 
 Aspiring Front-End Web Developer
 
-📧 Email: your-email@example.com
+📧 Email: mohdsohel748@gmail.com
 
-🌐 GitHub: https://github.com/yourusername
+🌐 GitHub: https://github.com/mohdsoheldev
 
 ---
 
