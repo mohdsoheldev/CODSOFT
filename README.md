@@ -1,7 +1,7 @@
 ## Live Projects
 
 - Portfolio: https://portfolio-kappa-ten-5zxntyxz58.vercel.app/
-- Calculator: https://your-calculator.vercel.app
+- Calculator: https://codsoft-seven-eta.vercel.app/
 
 # 🌟 Personal Portfolio Website
 
