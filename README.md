@@ -1,6 +1,6 @@
 ## Live Projects
 
-- Portfolio: https://your-portfolio.vercel.app
+- Portfolio: https://portfolio-kappa-ten-5zxntyxz58.vercel.app/
 - Calculator: https://your-calculator.vercel.app
 
 # 🌟 Personal Portfolio Website
