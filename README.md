@@ -2,7 +2,7 @@
 
 - Portfolio: https://portfolio-kappa-ten-5zxntyxz58.vercel.app/
 - Calculator: https://codsoft-seven-eta.vercel.app/
-
+- landing page: http://codsoft-3wrz.vercel.app/
 # 🌟 Personal Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my skills, learning journey, and passion for web development.
